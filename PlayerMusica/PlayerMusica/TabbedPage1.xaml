@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="PlayerMusica.TabbedPage1"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            
+            BarBackgroundColor="#993399"
+            BackgroundColor="Black"
+            
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            android:TabbedPage.BarItemColor="#ffffff"
+            android:TabbedPage.BarSelectedItemColor="#993399">
+    <!--Pages can be added as references or inline-->
+    <ContentPage Title="Player">
+        <StackLayout>
+            <StackLayout Padding="10" VerticalOptions="FillAndExpand" >
+                <AbsoluteLayout VerticalOptions="FillAndExpand">
+                    <BoxView Color="Gray" AbsoluteLayout.LayoutBounds="0,0,1,1"
+                             AbsoluteLayout.LayoutFlags="All"/>
+                    <StackLayout AbsoluteLayout.LayoutBounds="0,0,1,1"
+                                 AbsoluteLayout.LayoutFlags="All">
+                        <Label x:Name="_tamanho" Text="Testes" FontSize="Medium" TextColor="White" 
+                               VerticalOptions="EndAndExpand"/>
+                    </StackLayout>
+                </AbsoluteLayout>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" Padding="5">
+                <Label Text="00:00" FontSize="Small" TextColor="White" x:Name="_resta"/>
+                <StackLayout HorizontalOptions="FillAndExpand">
+                    <Slider Minimum="0" x:Name="_barra" VerticalOptions="End" MinimumTrackColor="#1838b8"/>
+                </StackLayout>
+                <Label Text="00:00" FontSize="Small" TextColor="White" x:Name="_total"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="StartAndExpand">
+                <Button HorizontalOptions="EndAndExpand" Text="Ante" x:Name="_ante"/>
+                
+                <Button HorizontalOptions="Center" x:Name="_playPause" Text="Play"/>
+                <Button HorizontalOptions="StartAndExpand" Text="Prox" x:Name="_prox"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage>
+    
+    <ContentPage Title="Lista">
+        <StackLayout>
+            <ListView x:Name="lista_musicas" SeparatorColor="White">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="5">
+                                <Image WidthRequest="50" HeightRequest="50" Source="capa.png"/>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Nome}" TextColor="White" FontSize="Micro"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>

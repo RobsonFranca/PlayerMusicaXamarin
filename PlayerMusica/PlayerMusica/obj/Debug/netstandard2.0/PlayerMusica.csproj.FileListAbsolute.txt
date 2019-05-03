@@ -1,0 +1,26 @@
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\bin\Debug\netstandard2.0\PlayerMusica.deps.json
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\bin\Debug\netstandard2.0\PlayerMusica.dll
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\bin\Debug\netstandard2.0\PlayerMusica.pdb
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.csprojAssemblyReference.cache
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.AssemblyInfo.cs
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.dll
+C:\Users\robso\source\repos\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.pdb
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\bin\Debug\netstandard2.0\PlayerMusica.deps.json
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\bin\Debug\netstandard2.0\PlayerMusica.dll
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\bin\Debug\netstandard2.0\PlayerMusica.pdb
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.csprojAssemblyReference.cache
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.csproj.CoreCompileInputs.cache
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.AssemblyInfoInputs.cache
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.AssemblyInfo.cs
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.dll
+C:\Users\CT Tarde\Downloads\PlayerMusica\PlayerMusica\PlayerMusica\obj\Debug\netstandard2.0\PlayerMusica.pdb
